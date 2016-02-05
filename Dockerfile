@@ -1,4 +1,4 @@
-# Docker baseimage with jdk8 on alpine 3.3 and S6+dnsmasq
+# Docker baseimage with jdk8 on alpine 3.3 and S6+dnsmasq and Timezone CET
 FROM alpine:3.3
 
 ENV S6_VERSION=v1.17.1.1 \
